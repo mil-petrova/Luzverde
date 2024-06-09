@@ -1,0 +1,100 @@
+
+Œ
+java:S1192‰"IDefine a constant instead of duplicating this literal "telefono" 5 times.(áâïa8‘®Åíÿ1J$68244af1-904f-4e49-8fd3-231cf50c7d05
+
+java:S1192µ"JDefine a constant instead of duplicating this literal "id_tarifa" 3 times.(±ªÈ/8‘®Åíÿ1J$e9604e62-34ca-47de-a980-997a1dcca190
+“
+java:S1192ı"JDefine a constant instead of duplicating this literal "costo_kwh" 3 times.(ØÂ‡ıÿÿÿÿ8¼’½ğÿ1J$fa3db995-ae31-4a7d-bd76-e1c438dd507f
+‘
+java:S1192ü"MDefine a constant instead of duplicating this literal "kWConsumidos" 3 times.(½É¶Í8¿’½ğÿ1J$af1fd629-1adf-452e-aec2-b0ebc60e6c1b
+’
+java:S1192†"IDefine a constant instead of duplicating this literal "apellido" 5 times.(øÏÎäùÿÿÿÿ8‘®Åíÿ1J$b5760b5d-e469-42e8-8f3e-4150828aabe3
+
+java:S1192°"FDefine a constant instead of duplicating this literal "email" 6 times.(ŸÍÛ²şÿÿÿÿ8‘®Åíÿ1J$1690d1e3-60fd-4486-863f-9da30fdb6c05
+”
+java:S1192´"KDefine a constant instead of duplicating this literal "id_persona" 4 times.( ˜øÿÿÿÿÿ8‘®Åíÿ1J$2daf3136-c1c2-4c06-a6ab-276596d70155
+Š
+java:S1192Á"FDefine a constant instead of duplicating this literal "ADMIN" 3 times.(øöÛ8”­Åíÿ1J$d3f40e01-6af4-4483-b0c4-3e0562a2f1f3
+“
+java:S1192ˆ"JDefine a constant instead of duplicating this literal "direccion" 5 times.(Ã•£úÿÿÿÿ8‘®Åíÿ1J$41af782c-fc4c-4249-8a4a-dc5403041f0b
+
+java:S1192…"GDefine a constant instead of duplicating this literal "nombre" 5 times.(×¤šîûÿÿÿÿ8‘®Åíÿ1J$10221d12-0173-4f34-8c54-e39f4039407a
+‘
+java:S1192°"HDefine a constant instead of duplicating this literal "CLIENTE" 3 times.(ŸÍÛ²şÿÿÿÿ8‘®Åíÿ1J$b2632c29-7468-4de5-bc3c-ecf3560869fd
+‹
+java:S2095Ú"HUse try-with-resources or close this "Connection" in a "finally" clause.(ë€Çj8¢æÒíÿ1J$8c40622e-edd5-4518-9e70-300bf31ab987
+„	java:S107Æ"<Method has 8 parameters, which is greater than 7 authorized.(‡À¡€øÿÿÿÿ8‘®Åíÿ1J$66d1e1b8-4f6d-48d1-8e4e-54d47d4d6d46
+†
+java:S1117">Rename "connection" which hides the field declared at line 15.(‹ÂÒ²ùÿÿÿÿ8‘®Åíÿ1J$d4a90904-e183-443b-b95f-b571850b02ea
+†
+java:S11178">Rename "connection" which hides the field declared at line 15.(Ã‚Ãùÿÿÿÿ8‘®Åíÿ1J$abddee62-3b25-450c-b401-60bc89112118
+†
+java:S1117N">Rename "connection" which hides the field declared at line 15.(Ã‚Ãùÿÿÿÿ8‘®Åíÿ1J$aae27fe8-1118-4d00-9bf8-f315f56c9726
+†
+java:S1117k">Rename "connection" which hides the field declared at line 15.(Ã‚Ãùÿÿÿÿ8‘®Åíÿ1J$86697d8f-ca56-48ad-8457-29f729a4268c
+‡
+java:S1117…">Rename "connection" which hides the field declared at line 15.(Ã‚Ãùÿÿÿÿ8‘®Åíÿ1J$67c5128d-ed73-4aaf-8095-6567a93c6507
+‡
+java:S1117">Rename "connection" which hides the field declared at line 15.(Ã‚Ãùÿÿÿÿ8‘®Åíÿ1J$8a8a8b9e-a628-420c-808c-a2daa675a366
+‡
+java:S1117¹">Rename "connection" which hides the field declared at line 15.(Ã‚Ãùÿÿÿÿ8‘®Åíÿ1J$a90f469a-e562-4d30-9d25-72aa0082dc44
+‚
+java:S1117Ö">Rename "connection" which hides the field declared at line 15.(ïÆ¥8‘®Åíÿ1J$a23dd2e4-cacd-4e6e-ab93-71da48951dc2
+‡
+java:S1117›">Rename "connection" which hides the field declared at line 15.(Ã‚Ãùÿÿÿÿ8“¶ïÿ1J$dbd97620-211b-4dfd-83be-6dad07cb9ad7
+g
+java:S2119Ô"Save and re-use this "Random".(šŸ«íøÿÿÿÿ8¶ïÿ1J$ae31bc7e-1582-4195-87c6-5080a9203b26
+‡
+java:S1117Ø">Rename "connection" which hides the field declared at line 15.(Ã‚Ãùÿÿÿÿ8¶ïÿ1J$de77e722-7ee1-468f-862a-64d06306e6dd
+g
+java:S2119û"Save and re-use this "Random".(šŸ«íøÿÿÿÿ8¦¶ïÿ1J$b355fb05-2943-402a-9612-b75f32cbae0e
+g
+java:S2119’"Save and re-use this "Random".(šŸ«íøÿÿÿÿ8È¶ïÿ1J$2a2cca41-842d-46b8-942c-9cc28f2a242f
+g
+java:S2119"Save and re-use this "Random".(šŸ«íøÿÿÿÿ8Ê¶ïÿ1J$598b32ab-0fba-4456-b67f-5247ea0b7e1c
+‡
+java:S1117®">Rename "connection" which hides the field declared at line 15.(Ã‚Ãùÿÿÿÿ8Ì¶ïÿ1J$c118fc3c-06ea-4db2-90b2-0ed88bbabb02
+‡
+java:S1117É">Rename "connection" which hides the field declared at line 15.(Ã‚Ãùÿÿÿÿ8Ğ¶ïÿ1J$53f4dac7-78ae-43a4-992c-bbf659cc04e0
+‡
+java:S1117å">Rename "connection" which hides the field declared at line 15.(Ã‚Ãùÿÿÿÿ8×¶ïÿ1J$1849aa5e-a354-4489-bcc2-49f4f5bb634b
+‡
+java:S1117ü">Rename "connection" which hides the field declared at line 15.(Ã‚Ãùÿÿÿÿ8Ü¶ïÿ1J$c6aaf053-cefd-49c5-8666-a3d346356cc9
+c
+java:S6905ù"Don't use the query "SELECT *".(ĞíÂè8İ¶ïÿ1J$b3c9e7b7-6b1a-40ba-a205-4d483b553cbf
+‡
+java:S1117­">Rename "connection" which hides the field declared at line 15.(Ã‚Ãùÿÿÿÿ8ç¶ïÿ1J$3febb4c1-d577-41eb-ad41-a680741f1521
+c
+java:S6905ª"Don't use the query "SELECT *".(ÏÁÆò8è¶ïÿ1J$bcfbd176-317a-4a51-bab2-00ab6c8a4042
+‡
+java:S1117Ê">Rename "connection" which hides the field declared at line 15.(Ã‚Ãùÿÿÿÿ8í¶ïÿ1J$a56d793d-ea75-4261-95e6-7ed7c948501a
+‡
+java:S1117ì">Rename "connection" which hides the field declared at line 15.(Ã‚Ãùÿÿÿÿ8È•½ğÿ1J$23f6ad90-9c00-4a80-9fa3-775a89bceb83
+‡
+java:S1117”">Rename "connection" which hides the field declared at line 15.(Ã‚Ãùÿÿÿÿ8Í•½ğÿ1J$bea62e7d-daa1-48c0-8456-839862eb67ce
+b
+java:S6905‘"Don't use the query "SELECT *".(ŞÜÌ8Î•½ğÿ1J$593fef18-9ccd-42f2-a022-a0d2c2bc2c05
+‡
+java:S1117¶">Rename "connection" which hides the field declared at line 15.(Ã‚Ãùÿÿÿÿ8Ô•½ğÿ1J$9630b352-0d57-4c1b-9287-be7c2ae13660
+‡
+java:S1117ß">Rename "connection" which hides the field declared at line 15.(Ã‚Ãùÿÿÿÿ8Ü•½ğÿ1J$f6baf270-4566-40ca-a784-73d26230b669
+‡
+java:S1117ˆ">Rename "connection" which hides the field declared at line 15.(Ã‚Ãùÿÿÿÿ8ã•½ğÿ1J$f4f5d799-678b-4493-a30f-c2eb55f083b5
+h
+java:S6905…"Don't use the query "SELECT *".(¡—Ô´ùÿÿÿÿ8ã•½ğÿ1J$22aab562-eb11-4ae9-8611-8a58afdf45db
+‡
+java:S1117·">Rename "connection" which hides the field declared at line 15.(Ã‚Ãùÿÿÿÿ8ê•½ğÿ1J$a575f2f0-d151-42fc-ab5f-8bb7580bac03
+‡
+java:S1117Ç">Rename "connection" which hides the field declared at line 15.(Ã‚Ãùÿÿÿÿ8ì•½ğÿ1J$65ff3024-88d0-4948-83c1-baae7f26a3c0
+‡
+java:S1117×">Rename "connection" which hides the field declared at line 15.(Ã‚Ãùÿÿÿÿ8ğ•½ğÿ1J$52dae372-e830-49e8-a75d-4a7253e7ab1b
+‡
+java:S1117ç">Rename "connection" which hides the field declared at line 15.(Ã‚Ãùÿÿÿÿ8ô•½ğÿ1J$2f728934-8946-4928-9a95-a6f619d2a37b
+‡
+java:S1117ù">Rename "connection" which hides the field declared at line 15.(Ã‚Ãùÿÿÿÿ8÷•½ğÿ1J$54fe2bd6-abe7-4673-947f-ec4bdeb3b503
+h
+java:S6905ö"Don't use the query "SELECT *".(íº«¡ÿÿÿÿÿ8ø•½ğÿ1J$8c3f6a7f-73a8-4ed9-8b98-99124aa404a2
+š
+java:S6912¿"VUse "addBatch" and "executeBatch" to execute multiple SQL statements in a single call.(¨å“Š8®¯Åíÿ1J$92f86e86-7137-4db0-a293-230e8a2cb6d5
+q
+java:S1068".Remove this unused "connection" private field.(éä´É8½¯Åíÿ1J$c6f5d5c5-8dbe-4cc8-82f8-e92cd2b717a5

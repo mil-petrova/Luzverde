@@ -1,0 +1,15 @@
+
+	java:S112Å"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ8û‹Öèÿ1J$4815e4b9-47a8-47eb-96c1-8f4871a0a260
+	java:S112ó"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ8¡ğØéÿ1J$7840a06e-f0e0-4a97-8f67-a8243f731507
+•
+java:S1192¿"QDefine a constant instead of duplicating this literal "Error de Formato" 3 times.(©¥…8‚ŒÖèÿ1J$32a3e2d7-5c74-4017-9312-b16f75b862fe
+
+java:S1192Ú"UDefine a constant instead of duplicating this literal "-fx-font-size: 16px;" 9 times.(®ğ Ãşÿÿÿÿ8‚ŒÖèÿ1J$7d91a444-1fe5-46dc-9721-884356486999
+–
+java:S3776ß"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Á´³î8áÖèÿ1J$c327df91-6d71-42d4-82ac-c47028cbc45e
+u
+java:S1172Õ",Remove this unused method parameter "stage".(¥˜ùıÿÿÿÿ8‚ƒËéÿ1J$03ec2e06-106b-4bba-94d2-755d6df41d7b
+u
+java:S1172Ÿ",Remove this unused method parameter "stage".(à†¾êûÿÿÿÿ8­óØéÿ1J$e199b89b-cef4-4a11-92a0-8517e8a67224
+’
+java:S4201¬"IRemove this unnecessary null check; "instanceof" returns false for nulls.(…¿¹°üÿÿÿÿ8±óØéÿ1J$66a45d75-1f41-43a1-bce9-ce99d53e32a7
